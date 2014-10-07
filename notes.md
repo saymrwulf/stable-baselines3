@@ -19,3 +19,4 @@
 2014-08-19T00:08:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2014-09-26T07:14:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2014-09-26T21:54:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
+2014-10-07T05:31:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
