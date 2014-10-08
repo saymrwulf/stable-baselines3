@@ -24,3 +24,4 @@
 2014-10-07T18:41:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2014-10-07T05:50:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2014-10-08T08:04:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
+2014-10-08T22:01:00 - Late-night bugfix on financial RL environment (stable-baselines3)
