@@ -26,3 +26,4 @@
 2014-10-08T08:04:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2014-10-08T22:01:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2014-10-14T21:08:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2014-10-14T20:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
