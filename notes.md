@@ -27,3 +27,4 @@
 2014-10-08T22:01:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2014-10-14T21:08:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2014-10-14T20:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2014-10-14T21:05:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
