@@ -30,3 +30,4 @@
 2014-10-14T21:05:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2014-10-14T04:35:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2014-10-16T23:45:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2014-10-16T06:56:00 - Implementing approach from a new paper read last night (stable-baselines3)
