@@ -31,3 +31,4 @@
 2014-10-14T04:35:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2014-10-16T23:45:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2014-10-16T06:56:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2014-10-16T08:58:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
