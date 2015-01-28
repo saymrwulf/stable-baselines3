@@ -34,3 +34,4 @@
 2014-10-16T08:58:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2014-11-15T03:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2015-01-28T07:15:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
+2015-01-28T02:13:00 - Late-night bugfix on financial RL environment (stable-baselines3)
