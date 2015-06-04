@@ -44,3 +44,4 @@
 2015-02-11T07:12:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2015-02-11T22:44:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2015-02-19T00:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2015-06-04T20:07:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
