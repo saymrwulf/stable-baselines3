@@ -49,3 +49,4 @@
 2015-07-30T23:45:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2015-08-23T07:49:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2015-08-23T00:41:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
+2015-08-23T07:03:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
