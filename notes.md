@@ -59,3 +59,4 @@
 2016-06-15T00:32:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2016-06-15T20:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2016-06-15T20:09:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2016-06-15T18:27:00 - Late-night bugfix on financial RL environment (stable-baselines3)
