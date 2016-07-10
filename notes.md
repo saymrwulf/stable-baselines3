@@ -62,3 +62,4 @@
 2016-06-15T18:27:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2016-07-10T05:08:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2016-07-10T04:50:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2016-07-10T08:24:00 - Implementing approach from a new paper read last night (stable-baselines3)
