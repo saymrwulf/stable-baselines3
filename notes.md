@@ -67,3 +67,4 @@
 2016-08-05T07:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2016-08-05T20:45:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2016-08-05T23:44:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2016-08-05T20:39:00 - Late-night bugfix on financial RL environment (stable-baselines3)
