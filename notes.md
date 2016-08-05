@@ -64,3 +64,4 @@
 2016-07-10T04:50:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2016-07-10T08:24:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2016-07-15T05:48:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2016-08-05T07:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
