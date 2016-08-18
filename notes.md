@@ -68,3 +68,4 @@
 2016-08-05T20:45:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2016-08-05T23:44:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2016-08-05T20:39:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2016-08-18T03:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
