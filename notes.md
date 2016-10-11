@@ -76,3 +76,4 @@
 2016-10-06T19:34:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2016-10-06T20:52:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2016-10-11T04:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2016-10-11T20:49:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
