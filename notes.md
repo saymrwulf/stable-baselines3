@@ -79,3 +79,4 @@
 2016-10-11T20:49:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2016-10-15T03:40:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2016-10-15T18:03:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2016-10-15T01:08:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
