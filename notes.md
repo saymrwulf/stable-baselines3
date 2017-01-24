@@ -85,3 +85,4 @@
 2017-01-19T20:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2017-01-19T18:41:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2017-01-19T05:54:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2017-01-24T07:32:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
