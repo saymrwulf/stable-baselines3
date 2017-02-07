@@ -89,3 +89,4 @@
 2017-02-03T05:25:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2017-02-06T20:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2017-02-06T18:23:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
+2017-02-07T07:25:00 - Implementing approach from a new paper read last night (stable-baselines3)
