@@ -96,3 +96,4 @@
 2017-02-24T03:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2017-02-24T00:24:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2017-02-24T08:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
+2017-02-24T02:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
