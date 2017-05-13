@@ -103,3 +103,4 @@
 2017-05-04T19:51:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2017-05-04T21:54:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2017-05-13T17:24:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2017-05-13T18:15:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
