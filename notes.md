@@ -106,3 +106,4 @@
 2017-05-13T18:15:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2017-08-09T03:01:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2017-08-09T19:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2017-08-09T06:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
