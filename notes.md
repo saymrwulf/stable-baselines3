@@ -118,3 +118,4 @@
 2017-12-23T08:52:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2017-12-24T23:08:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2017-12-25T18:22:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2018-01-06T07:58:00 - Late-night bugfix on financial RL environment (stable-baselines3)
