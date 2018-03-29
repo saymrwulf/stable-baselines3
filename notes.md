@@ -123,3 +123,4 @@
 2018-01-11T00:28:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2018-02-08T21:19:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2018-03-29T08:45:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2018-03-29T07:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
