@@ -128,3 +128,4 @@
 2018-03-30T18:57:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2018-03-30T05:51:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2018-03-30T17:43:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2018-04-05T19:44:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
