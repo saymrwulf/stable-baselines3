@@ -137,3 +137,4 @@
 2018-05-15T23:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2018-07-15T22:06:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2018-07-15T21:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
+2018-07-15T00:01:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
