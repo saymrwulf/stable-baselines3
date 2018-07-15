@@ -135,3 +135,4 @@
 2018-04-25T23:31:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2018-05-15T05:27:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2018-05-15T23:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2018-07-15T22:06:00 - Late-night bugfix on financial RL environment (stable-baselines3)
