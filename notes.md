@@ -141,3 +141,4 @@
 2018-08-02T17:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2018-08-02T05:42:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2018-08-02T05:57:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2018-08-02T00:20:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
