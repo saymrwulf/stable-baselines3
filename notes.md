@@ -144,3 +144,4 @@
 2018-08-02T00:20:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2018-08-06T01:48:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2018-08-06T22:09:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2018-08-06T05:18:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
