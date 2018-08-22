@@ -148,3 +148,4 @@
 2018-08-22T21:43:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2018-08-22T06:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2018-08-22T23:08:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2018-08-22T19:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
