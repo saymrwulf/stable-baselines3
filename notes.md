@@ -146,3 +146,4 @@
 2018-08-06T22:09:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2018-08-06T05:18:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2018-08-22T21:43:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
+2018-08-22T06:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
