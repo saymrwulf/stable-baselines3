@@ -163,3 +163,4 @@
 2018-12-11T05:45:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2018-12-11T22:29:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2019-01-03T23:51:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2019-01-03T05:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
