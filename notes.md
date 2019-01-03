@@ -162,3 +162,4 @@
 2018-12-09T23:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2018-12-11T05:45:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2018-12-11T22:29:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2019-01-03T23:51:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
