@@ -169,3 +169,4 @@
 2019-01-14T20:33:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2019-01-14T17:59:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2019-03-02T07:46:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2019-03-02T04:53:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
