@@ -180,3 +180,4 @@
 2019-06-18T05:00:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2019-06-18T04:35:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2019-06-23T23:43:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2019-06-23T06:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
