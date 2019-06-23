@@ -179,3 +179,4 @@
 2019-05-21T18:20:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2019-06-18T05:00:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2019-06-18T04:35:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2019-06-23T23:43:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
