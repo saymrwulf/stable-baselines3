@@ -185,3 +185,4 @@
 2019-06-23T06:58:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2019-08-13T17:35:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2019-08-13T21:44:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2019-08-13T17:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
