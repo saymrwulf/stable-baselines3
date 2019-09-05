@@ -188,3 +188,4 @@
 2019-08-13T17:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2019-09-05T17:04:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2019-09-05T18:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2019-09-05T18:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
