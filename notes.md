@@ -191,3 +191,4 @@
 2019-09-05T18:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2019-09-05T22:53:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2019-11-03T21:50:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2019-11-03T08:00:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
