@@ -196,3 +196,4 @@
 2020-05-18T04:52:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2020-05-18T03:23:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2020-05-24T23:03:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
+2020-06-12T04:20:00 - Late-night bugfix on financial RL environment (stable-baselines3)
