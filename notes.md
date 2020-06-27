@@ -200,3 +200,4 @@
 2020-06-20T05:57:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2020-06-20T18:03:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2020-06-20T01:55:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2020-06-27T23:52:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
