@@ -206,3 +206,4 @@
 2020-07-09T04:14:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2020-07-09T03:29:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2020-07-16T17:25:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
+2020-07-16T22:46:00 - Late-night bugfix on financial RL environment (stable-baselines3)
