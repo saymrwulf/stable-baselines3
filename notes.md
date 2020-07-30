@@ -207,3 +207,4 @@
 2020-07-09T03:29:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2020-07-16T17:25:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2020-07-16T22:46:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2020-07-30T19:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
