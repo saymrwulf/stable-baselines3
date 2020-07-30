@@ -210,3 +210,4 @@
 2020-07-30T19:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2020-07-30T18:18:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2020-07-30T08:00:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2020-07-30T03:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
