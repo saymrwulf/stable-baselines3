@@ -219,3 +219,4 @@
 2020-10-16T06:47:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2020-10-17T04:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2020-10-17T02:43:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
+2020-11-09T00:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
