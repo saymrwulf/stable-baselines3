@@ -221,3 +221,4 @@
 2020-10-17T02:43:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2020-11-09T00:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2020-11-09T21:11:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2020-11-09T17:35:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
