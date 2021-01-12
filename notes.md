@@ -226,3 +226,4 @@
 2020-12-05T07:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2020-12-16T22:52:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2020-12-16T03:13:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2021-01-12T18:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
