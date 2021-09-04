@@ -241,3 +241,4 @@
 2021-06-07T21:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2021-06-09T17:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2021-09-04T01:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
+2021-09-04T20:54:00 - Late-night bugfix on financial RL environment (stable-baselines3)
