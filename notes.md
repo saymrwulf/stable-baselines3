@@ -247,3 +247,4 @@
 2021-09-17T01:46:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2021-09-23T17:30:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2021-09-23T03:49:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2021-09-23T23:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
