@@ -254,3 +254,4 @@
 2021-11-26T19:22:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2021-11-26T20:16:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2021-11-26T20:39:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2021-11-26T04:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
