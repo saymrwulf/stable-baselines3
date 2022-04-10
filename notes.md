@@ -262,3 +262,4 @@
 2022-04-10T06:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2022-04-10T00:07:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2022-04-10T22:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2022-04-10T08:44:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
