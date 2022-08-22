@@ -282,3 +282,4 @@
 2022-07-14T21:42:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2022-08-22T22:06:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2022-08-22T22:43:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2022-08-22T20:09:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
