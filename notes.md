@@ -280,3 +280,4 @@
 2022-07-14T20:58:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2022-07-14T04:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2022-07-14T21:42:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2022-08-22T22:06:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
