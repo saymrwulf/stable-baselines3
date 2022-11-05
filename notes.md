@@ -288,3 +288,4 @@
 2022-11-02T03:10:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2022-11-02T01:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2022-11-05T05:08:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2022-11-05T06:13:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
