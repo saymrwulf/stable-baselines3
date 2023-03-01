@@ -303,3 +303,4 @@
 2023-03-01T20:59:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2023-03-01T20:44:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2023-03-01T18:33:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2023-03-01T03:17:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
