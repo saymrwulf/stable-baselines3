@@ -305,3 +305,4 @@
 2023-03-01T18:33:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2023-03-01T03:17:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2023-03-24T07:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2023-03-24T08:54:00 - Late-night bugfix on financial RL environment (stable-baselines3)
