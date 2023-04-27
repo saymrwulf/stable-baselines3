@@ -308,3 +308,4 @@
 2023-03-24T08:54:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2023-03-24T19:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2023-04-24T01:05:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2023-04-27T03:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
