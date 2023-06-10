@@ -318,3 +318,4 @@
 2023-04-29T06:30:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2023-05-16T18:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2023-05-16T20:51:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
+2023-06-10T04:00:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
