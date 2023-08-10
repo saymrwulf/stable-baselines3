@@ -328,3 +328,4 @@
 2023-08-08T22:50:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
 2023-08-08T19:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2023-08-10T18:17:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2023-08-10T21:23:00 - Late-night bugfix on financial RL environment (stable-baselines3)
