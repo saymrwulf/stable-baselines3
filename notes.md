@@ -337,3 +337,4 @@
 2023-09-03T21:23:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2023-09-03T00:45:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2023-09-06T20:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2023-11-25T19:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
