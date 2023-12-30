@@ -340,3 +340,4 @@
 2023-11-25T19:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2023-11-25T22:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2023-11-25T23:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2023-12-30T19:26:00 - Implementing approach from a new paper read last night (stable-baselines3)
