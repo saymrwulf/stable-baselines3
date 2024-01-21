@@ -341,3 +341,4 @@
 2023-11-25T22:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2023-11-25T23:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2023-12-30T19:26:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2024-01-21T23:59:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
