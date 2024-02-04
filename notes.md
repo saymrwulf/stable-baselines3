@@ -344,3 +344,4 @@
 2024-01-21T23:59:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2024-02-04T02:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2024-02-04T05:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
+2024-02-04T02:46:00 - Implementing approach from a new paper read last night (stable-baselines3)
