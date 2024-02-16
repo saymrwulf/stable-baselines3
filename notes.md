@@ -352,3 +352,4 @@
 2024-01-06T05:59:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2024-02-01T07:07:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2024-02-01T22:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2024-02-16T17:09:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
