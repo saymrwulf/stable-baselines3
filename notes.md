@@ -357,3 +357,4 @@
 2024-02-16T22:30:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
 2024-02-22T05:56:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2024-02-22T17:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
+2024-02-22T18:11:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
