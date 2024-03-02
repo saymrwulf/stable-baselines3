@@ -361,3 +361,4 @@
 2024-02-22T02:15:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2024-02-26T05:42:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2024-02-26T07:43:00 - Implementing approach from a new paper read last night (stable-baselines3)
+2024-03-02T23:15:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
