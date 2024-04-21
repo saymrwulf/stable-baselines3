@@ -366,3 +366,4 @@
 2024-03-02T18:54:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2024-04-21T17:57:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2024-04-21T06:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
+2024-04-21T19:35:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
