@@ -370,3 +370,4 @@
 2024-04-21T19:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2024-06-13T07:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2024-06-13T06:56:00 - Refactor for clarity, might break a few tests though (stable-baselines3)
+2024-06-13T08:06:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
