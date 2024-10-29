@@ -374,3 +374,4 @@
 2024-10-09T00:27:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2024-10-09T05:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
 2024-10-29T20:52:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2024-10-29T06:08:00 - Quick fix, referencing a known issue from the official repo (stable-baselines3)
