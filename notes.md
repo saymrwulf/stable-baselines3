@@ -379,3 +379,4 @@
 2024-10-29T21:18:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2024-11-07T22:31:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2024-12-17T22:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (stable-baselines3)
+2024-12-17T07:27:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
