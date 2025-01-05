@@ -382,3 +382,4 @@
 2024-12-17T07:27:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
 2025-01-05T07:04:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2025-01-05T22:50:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
+2025-01-05T20:31:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
