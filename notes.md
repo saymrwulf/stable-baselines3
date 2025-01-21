@@ -389,3 +389,4 @@
 2025-01-20T01:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
 2025-01-21T17:24:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2025-01-21T03:31:00 - Late-night bugfix on financial RL environment (stable-baselines3)
+2025-01-21T04:41:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
