@@ -387,3 +387,4 @@
 2025-01-08T19:59:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2025-01-20T17:50:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (stable-baselines3)
 2025-01-20T01:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (stable-baselines3)
+2025-01-21T17:24:00 - Implementing approach from a new paper read last night (stable-baselines3)
