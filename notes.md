@@ -390,3 +390,4 @@
 2025-01-21T17:24:00 - Implementing approach from a new paper read last night (stable-baselines3)
 2025-01-21T03:31:00 - Late-night bugfix on financial RL environment (stable-baselines3)
 2025-01-21T04:41:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
+2025-01-26T18:56:00 - Minor doc updates: linking to article on quantization (stable-baselines3)
